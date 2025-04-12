@@ -148,7 +148,7 @@ All the columns are useful, so I keep them. But there is change to do for the ty
 -	JP_sales: number with decimal, using local US
 -	Other_sales: number with decimal, using local US
 -	Global_sales: number with decimal, using local US
--	Year left as a text to not impact the dataset because of 271 NA 
+-	Year: left as a text to not impact the dataset because of 271 NA 
 
 Creating some measures for the analysis for global view and region view: 
 -	Number of games: COUNTROWS(vgsales)
