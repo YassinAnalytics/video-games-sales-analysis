@@ -224,10 +224,10 @@ This project shows how data analysis and visualization can uncover deep insights
 
 ## **Going further** 
 -	Analyze the impact of each new consoles on the market 
--	Do an analyze by decade
+-	Do an analysis by decade
 -	Another analysis would also analyze the impact of the free2play games, the e-sport and also to see the part of physical and digital sales. If there are the relevant data. 
 -	Analyze the impact of PC sales and mobiles sales
--	For the 271 NA for year, find and complete it for each game.
+-	For the 271 NA for year, find and complete it for each game
 -	Analyze the drop of the sales starting 2012
 
 ## **Files included**
